@@ -1,15 +1,19 @@
 ## Dataset
 
 
-In the dataset, You'll get data of different stores of a supermarket company as per their store IDs which for ease has been converted to positive integers.
+This dataset comprises data from multiple grocery chains, distinguished by unique store IDs (converted to positive integers for ease). 
 
-Store ID: (Index) ID of the particular store.
 
-Store_Area: Physical Area of the store in yard square.
+The dataset contains the following attributes:
 
-Items_Available: Number of different items available in the corresponding store.
+Store ID: Each store's unique identification (used for indexing).
 
-DailyCustomerCount: Number of customers who visited to stores on an average over month.
+Store_Area: The physical size of the store, measured in square yards.
 
-Store_Sales: Sales in (US $) that stores made.
+Items_Available: The number of various things offered by each store.
+
+DailyCustomerCount: The average number of customers who visit each store every day for a month.
+
+Store_Sales: The total sales earned by each store, expressed in US dollars.
+
 
